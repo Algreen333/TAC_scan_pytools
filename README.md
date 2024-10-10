@@ -22,7 +22,7 @@ He comprovat també que hi ha eines i llibreries per python que facilment permet
 
 | Escala Real | Ampliat |
 | :----: | :----: |
-| ![alt text](https://github.com/Algreen333/TAC_scan_pytools/blob/main/scatter_tumor_1.gif) | ![alt text](https://github.com/Algreen333/TAC_scan_pytools/blob/main/scatter_tumor_3.png) |
+| ![alt text](https://github.com/Algreen333/TAC_scan_pytools/blob/main/scatter_tumor_1.png) | ![alt text](https://github.com/Algreen333/TAC_scan_pytools/blob/main/scatter_tumor_3.png) |
 
 | Animació |
 | :---: |
