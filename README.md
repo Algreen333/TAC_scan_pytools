@@ -22,11 +22,11 @@ He comprovat també que hi ha eines i llibreries per python que facilment permet
 
 | Escala Real | Ampliat |
 | :----: | :----: |
-| ![alt text](./Resources/scatter_tumor_1.png) | ![alt text](./Resources/scatter_tumor_3.png) |
+| ![alt text](https://github.com/Algreen333/TAC_scan_pytools/main/scatter_tumor_1.png) | ![alt text](https://github.com/Algreen333/TAC_scan_pytools/main/scatter_tumor_3.png) |
 
 | Animació |
 | :---: |
-| ![alt text](./Resources/scatter_tumor_1.gif) |
+| ![alt text](https://github.com/Algreen333/TAC_scan_pytools//main/scatter_tumor_1.gif) |
 
 
 *Les visualizacions s'han generat a partir dels labels del pancreas '0004'*
